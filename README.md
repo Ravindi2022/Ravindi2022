@@ -5,7 +5,7 @@
 
 
 
-<div align="center">
+
 
 # 💻 Tech Stack:
 
@@ -26,7 +26,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
 
-</div>
+
 
 
 
