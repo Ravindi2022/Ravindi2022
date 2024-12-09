@@ -1,7 +1,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravindi-wickramasinghe-928851241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/ravindi-wickramasinghe-928851241/](https://www.linkedin.com/in/ravindi-wickramasinghe-928851241/))
 
 
 
