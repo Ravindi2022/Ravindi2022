@@ -45,7 +45,7 @@
 <div align="center">
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ravindi2022&theme=default&no-frame=false&no-bg=true&margin-w=4&fields=commits,repositories,experience,pull-request)
+![](https://github-profile-trophy.vercel.app/?username=Ravindi2022&theme=default&no-frame=false&no-bg=true&margin-w=4)
 
 
 </div>
